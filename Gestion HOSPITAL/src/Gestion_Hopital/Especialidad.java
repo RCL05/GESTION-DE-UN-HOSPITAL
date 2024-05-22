@@ -1,0 +1,21 @@
+package Gestion_Hopital;
+
+public enum Especialidad {
+    CARDIOLOGIA,
+    DERMATOLOGIA,
+    GINECOLOGIA,
+    PEDIATRIA,
+    TRAUMATOLOGIA,
+    UROLOGIA,
+    OFTALMOLOGIA,
+    NEUROLOGIA,
+    PSIQUIATRIA,
+    ENDOCRINOLOGIA,
+    NUTRICION,
+    FISIOTERAPIA,
+    ODONTOLOGIA,
+    OTORRINOLARINGOLOGIA,
+
+
+
+}
