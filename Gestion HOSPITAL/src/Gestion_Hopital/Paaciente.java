@@ -24,4 +24,6 @@ public class Paaciente extends Persona { // Error: extends is not allowed in a c
         this.enfermedades = enfermedades;
     }
 
+
+
 }
