@@ -1,7 +1,10 @@
 NUEVO DIAGRAMA PARA LA GESTIÓN HOSPITALARIA (El antiguo se ha eliminado)
 PROGRAMACION ORIENTADA A OBJETOS
+
 NOMBRE: Roberto Lliguin 
+
 CICLO: II Computación 
+
 
 
 DIAGRAMA UML:
