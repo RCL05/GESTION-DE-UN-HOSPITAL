@@ -77,4 +77,14 @@ public abstract class Persona implements Atencion{
         System.out.println("Direccion: " + direccion);
         System.out.println("Email: " + email);
     }
+
+public void mostrarDatos(String nombre, String apellido, String identificacion, String telefono, String direccion, String email) {
+        System.out.println("Nombre: " + nombre);
+        System.out.println("Apellido: " + apellido);
+        System.out.println("Identificacion: " + identificacion);
+        System.out.println("Telefono: " + telefono);
+        System.out.println("Direccion: " + direccion);
+        System.out.println("Email: " + email);
+    }
+
 }
